@@ -178,6 +178,8 @@ class Utils
         //remove leading 0s
         $value = ltrim($value, "0"); 
 
+        if ($value == "") $value = "0";
+
         return '0x' . $value;
     }
 
