@@ -1,10 +1,9 @@
 {
-    "name": "drlecks/simple-web3-php",
+    "name": "hazzaz/simple-web3-php",
     "description": "Web3 library in PHP",
     "keywords": ["ethereum", "transaction", "jsonRPC", "eth", "signed transaction", "php", "web3", "contract", "account", "ABIv2"],
     "type": "library",
     "license": "MIT",
-
     "authors": [
         {
             "name": "drlecks",
