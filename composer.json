@@ -4,6 +4,7 @@
     "keywords": ["ethereum", "transaction", "jsonRPC", "eth", "signed transaction", "php", "web3", "contract", "account", "ABIv2"],
     "type": "library",
     "license": "MIT",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "drlecks",
